@@ -1,5 +1,13 @@
-.env
 venv/
-instance/
 __pycache__/
 *.pyc
+
+.env
+
+instance/
+*.db
+
+.idea/
+.vscode/
+
+*.log
